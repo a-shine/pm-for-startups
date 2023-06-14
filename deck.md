@@ -67,7 +67,7 @@ Notes:
 
 ### Project charters
 
-> A Project charter formally authorizes the existence of a project and provides PM with the authority to apply resources.
+> A project charter formally authorizes the existence of a project and provides PM with the authority to apply resources.
 
 Notes:
 
@@ -137,52 +137,97 @@ Notes:
 
 --
 
-### Objectives (and being SMART)
+Exercise:
 
-- The project charter lists the project's deliverables
-  - The project scope i.e. What we are going to make / do
-- It also lists the project's objectives
-  - The project goals (desired outcomes or benefit)
-  - i.e. Why are we doing this
-- Each stakeholder will have different objectives!
+1. Curate a list of all the stakeholders that affect your project together with your team
+2. Take a piece of paper and plot those stakeholders on a power-interest grid
+
+<!-- TODO: Make a doc for listing out the stakeholder and placing them in quandrants -->
 
 --
 
-Outputs vs. outcomes vs. objectives
+### Objectives
 
-- Output / deliverable - what we're going to produce (the 'what')
-- Outcome - the change that the output will bring about (the 'so what')
-- Benefit - the value that the outcome will bring (the 'why')
-- Objective = the projects goals (desired outcomes or benefit)
+- The project charter lists the project's deliverables/scope (i.e. what we are going to make/do?)
+- It also lists the project's objectives/goals (desired outcomes or benefit) (i.e. why are we doing this?)
+- Each stakeholder may have different objectives!
 
-Framework for capturing objectives: SMART (Specific, Measurable, Achievable, Relevant, Time-bound)
+--
+
+Outputs, outcomes, benefits and objectives
+
+- Output/deliverable - what we're going to produce (the '**what**')
+- Outcome - the change that the output will bring about (the '**so what**')
+- Benefit - the value that the outcome will bring (the '**why**')
+- Objective, which is the projects goals, is the desired/intentional outcomes and/or benefits
+
+--
+
+SMART framework
+
+- Helps to formulate objectives that capture outcomes and benefits in a measurable way
+- **S**pecific, **M**easurable, **A**chievable, **R**elevant, **T**ime-bound (i.e. SMART)
+
+E.g.
+> To [improve/increase/enhance] [something] by [some amount] by [some date].
+
+--
+
+Some objective antipatterns:
+
+> - Optimize the system/process
+> - Maximize the potential of...
+> - We will maintain the service in an ongoing way
+> - We will implement x by y
+
+Notes:
+
+- Optimize and maximize are platitudes, so the objectives are unattainable and unspecific
+- No mention of when the project will be completed (not time bound)
+- We will implement x by y - no clear benefit
 
 --
 
 Worked example
 
-- Output: A drone that can monitor crop health in an automated way - can you think of the output of your particular project? (the 'what')
-- Outcome:
-  - Farmers get feedback on crop health regularly without driving to the field
-  - Don't dammage the crop by passing over it with a tractor
-  - Can choose fertiliser and irrigation based off timely crop health data
-- Objectives (measurable benefits):
-  - Increase crop yield by 10%
-  - Decrease crop damage by 5%
-  - Decrease fertiliser and irrigation costs by 5%
-  - Decrease time spent monitoring crop health from 5h to 1h per week
+- Output (*what?*): A drone that can monitor crop health in an automated way
+- Outcome (*so what?*): Farmers get feedback on crop health regularly without driving to the field
+- Benefit (*why is this good?*)
+  - Don't damage the crop by passing over it with a tractor
+  - Farmer can choose fertilizer and irrigation based off timely crop health data
 
-Now you try!
+Notes:
 
-Framework for SMART objectives:
- capturing the benefit, ouctcome or improments
+- Drone + software that allows it to be autonomous - output
+- Note that the outcome doesn't specify the benefit (it can get a bit confusing)
 
-> To [improve/increase/enhance] [something] by [some amount] by [some date].
+--
 
-Specefic, Measurable, Achievable, Relevant, Time-bound (SMART)
+Worked example (continued)
 
-Instead of throiwing platitude such as optimse, maximise the potential of the progarm or we will be carrying out in an ongoing way 
-or we will implement x by y - no clear benefit
+Capture the outcomes and benefits in our SMART Objectives:
+
+1. To increase wheat and barley crop yields by 10% ((as a result of better fertilizer and irrigation management)) after the first year of deployment on farms in Germany
+2. To decrease trampled crop damage due to tractors to nil as a result of using the drone over the first growing season where the drone is deployed
+3. To decrease fertilizer and irrigation costs by 30% as a result of the drone data-driven recommendations over the first growing season where the drone is deployed
+4. To decrease time spent monitoring crop health from 5h to 1h per week as a result of using the drone over the growing season
+
+Notes:
+
+- These objectives are achievable, we can measure to see if we have achieved them
+- They are relevant to the project, and they are time bound
+
+--
+
+Exercise:
+
+1. Would you be able to list the output (what?), outcome (so what) and benefits (so why) of your project?
+2. Would you be able to capture the outcomes and benefits (hence objectives of the project) in a SMART way?
+
+Notes:
+
+- If you are unwilling to discuss openly on the call or chat, I suggest you create a new shared Google Doc with you team
+- Ideally, I'd like to hear if anyone could share there output, outcome, benefits with me on the fly and formulate a SMART objective
 
 --
 
@@ -221,7 +266,7 @@ Notes:
 Prompting questions 🤔:
 
 - Can you think of what might be the most limiting factor for startups?
-- Can you see any potential trade-off decisions you may need to make in your projects?
+- Are there any potential trade-off decisions you may need to make in your projects?
 - Can you tell me what is most valuable to your project (scope, time or cost)?
 
 Notes:
@@ -236,11 +281,12 @@ Notes:
 Write up your project charter.
 
 This will involve you thinking about the most
-- importnnt constraints (scope, time, cost)
+
+- important constraints (scope, time, cost)
 - identify stakeholders
-- identify benefirs
+- identify benefits
 - objectives
-- risks 
+- risks
 - scope
 
 [NHS England project charter template](https://www.england.nhs.uk/wp-content/uploads/2022/02/qsir-define-your-project-charter.pdf)
