@@ -1,13 +1,20 @@
-<!-- TODO: Fix slides with text overflow -->
-<!-- TODO: Fix heading/hirachy -->
-
 <!-- .slide: data-background="./assets/imgs/NASA-Apollo8-Dec24-Earthrise.jpg" -->
 # Project Management
 
 Initiating and executing projects
 
-<!-- INTRODUCTIONS -->
-<!-- ICEBREAKER: Roundtable quick intros (the team/project you are working on) and a fun fact about yourlseves -->
+Notes:
+
+- Introductions
+  - CS / Engineer interested in agriculture
+  - Joined the Warwick Accelerator
+  - Worked at Google for a year
+  - Now going to do my PhD at the University of Cambridge
+  - DISCLOSURE: I don't claim to be an expert, but I do like thinking about effective PM, especially in the context of startups in agri/food space
+- Anecdotally, this is one of my favourite picture - Earthrise (taken from lunar orbit by astronaut William Anders on December 24, 1968, during the Apollo 8 mission)
+- You may ask what does this have to do with project management? But what enabled this is effective project management
+- Fundamentally PM remains the same and is applicable to all projects, whether it is a space mission or a startup project
+- ICEBREAKER: Roundtable quick intros (the team/project you are working on) and a fun fact about yourselves
 
 ---
 
@@ -22,6 +29,12 @@ Session 1: Initiating projects
 - The power-interest grid
 - Identifying & writing SMART objectives
 - The Iron Triangle - capturing scope, time and cost
+
+Notes:
+
+- I am aware that you are all at different stages of your business / projects, so I will try to make this as relevant as possible
+- Regardless, it is never too late to go back and revisit these things
+- Project charter is a more project-focused way of looking at the business canvas (the mentality differs slightly)
 
 --
 
@@ -78,6 +91,10 @@ Notes:
 - A lot of project management is managing a breadth of projects in a large organization with a lot of stakeholders, this is not your case!
 - You can get away with a lot less
 - Being small has its advantages (principally agility)!
+  - Focus on the project rather than how the project sits within the wider business
+- When I was working on my business / project with the Accelerator, it took me a while to realise that a lot of the PM tasks were not necessary and I could get on with the work of producing the deliverables
+  - However, the PM practices are still useful and can help you to deliver value more effectively
+  - It's a balance between management and doing the work
 
 --
 
@@ -88,7 +105,7 @@ Notes:
 Notes:
 
 - This comes from large organization where you need to unlock resources to start your project, hence you must justify to the business and stakeholders that it is worth doing
-- You don't have a need to justify yourselves to a large organization or business, but it is still a useful exercise to do
+- You don't have a need to justify yourselves to a large organization or business, but it is still a useful exercise to do (justify to yourself and potential funders)
 - The project charter allows you to have one document that you can refer back to when you are making decisions about the project
 - It allows you to quickly have an overview of the project and remind yourself of the project's objectives
 - It can be shared with potential funders, partners to give them a quick and clear understanding of what it is you are doing
@@ -96,9 +113,9 @@ Notes:
 
 --
 
-Encompasses:
+#### What is in a project charter?
 
-- Statement of Work (SoW) / Project mandate
+- Statement of Work (SoW) / mandate
   - What is the project?
   - What are the assumptions?
   - Some high level definition of scope and constraints (budget and time frame)
@@ -106,9 +123,36 @@ Encompasses:
   - Does this project deliver real value to the business?
   - What similar projects have been done before?
 
+Notes:
+
+- First project document to be developed once you have identified the challenge
+- Written before the project initiation document (PID)
+- It can be as short as one or two pages and comprises the key elements of the project
+- Explains the reasons for the project, the expectations and limitations which apply
+
 --
 
-[NHS England project charter template](https://www.england.nhs.uk/wp-content/uploads/2022/02/qsir-define-your-project-charter.pdf)
+#### Project charter within wider project management
+
+Idea / identified challenge → Project charter → Project initiation document (PID) → Project plan (and execution cycle)
+
+Notes:
+
+- Gives you an idea of the timeline...
+- Believe it or not there is an institution that governs project management, and they have a body of knowledge that defines the best practices for project management
+- They have a framework which is called the project management body of knowledge (PMBOK)
+- They suggest such a timeline...
+- The first thing you do is write down a project charter, which is a one-pager that you can share with stakeholders
+- A separate Charter and PID is probably not necessary for startup projects so have omitted that extra step
+- Also this linear approach has been widely criticized and is misleading, it implies that the charter is a one-off document that is written at the beginning of the project and then forgotten about (will come back to this later...)
+- In practice it is not a linear timeline but can be thought of as a cycle
+
+--
+
+Some good resources from NHS England:
+
+- [Project charter template](https://www.england.nhs.uk/wp-content/uploads/2022/02/qsir-define-your-project-charter.pdf)
+- [Project initiation template (PID)](https://www.england.nhs.uk/wp-content/uploads/2021/03/qsir-project-initiation-document.pdf)
 
 Notes:
 
@@ -120,9 +164,13 @@ Notes:
 
 > Stakeholder management is the process of maintaining good relationships with the people who have the most impact on your work.
 
+Notes:
+
+- I see you've already done plenty of work on stakeholder analysis, so there might be some overlap here
+
 --
 
-These could be
+#### Example stakeholders
 
 - Sponsors (internal or external)
 - Customers, end-users
@@ -134,11 +182,11 @@ These could be
 --
 
 <!-- .slide: data-background="white" -->
-The power-interest grid
+#### The power-interest grid
 
-<img src="https://www.researchgate.net/profile/Porto-Geciane/publication/280560177/figure/fig2/AS:614120046989320@1523429037826/Power-Interest-matrix.png" width="50%">
+<img src="https://www.researchgate.net/profile/Porto-Geciane/publication/280560177/figure/fig2/AS:614120046989320@1523429037826/Power-Interest-matrix.png" width="35%">
 
-General rule of thumb:
+Rule of thumb:
 
 - KS - Involve, engage, consultant (as they pose a risk)
 - MC - Involve in decision, communicate regularly
@@ -148,17 +196,22 @@ General rule of thumb:
 Notes:
 
 - The power-interest grid is a tool to help you identify your stakeholders and how to manage them
-- I don't think it is massively useful, but as quick exercise, grab a piece of paper draw out a grid and try to place your stakeholders in the grid
-- Formalized way of ensuring who are the key stakeholders
+- I'm going to be honest, I don't think it is massively useful
+- But it does provide a formalized way of ensuring who are the key stakeholders and is a quick and easy way to communicate this to your team
+- Helps with allocation of resources
 
 --
 
-Exercise:
+Exercise: Where do you the following stakeholders lie on the power-interest grid?
 
-1. Curate a list of all the stakeholders that affect your project together with your team
-2. Take a piece of paper and plot those stakeholders on a power-interest grid
+1. Senior board member in a large company
+2. Customer/end-user
+3. A field/subject-expert
 
-<!-- TODO: Make a doc for listing out the stakeholder and placing them in quandrants -->
+Notes:
+
+- Prompting question: for the teams that have government institutions as stakeholders, where do you think they lie on the grid?
+- Would anyone like to share their answers?
 
 --
 
@@ -170,7 +223,7 @@ Exercise:
 
 --
 
-Outputs, outcomes, benefits and objectives
+#### Outputs, outcomes, benefits and objectives
 
 - Output/deliverable - what we're going to produce (the '**what**')
 - Outcome - the change that the output will bring about (the '**so what**')
@@ -189,7 +242,7 @@ E.g.
 
 --
 
-Some objective antipatterns:
+Some objective antipatterns e.g.:
 
 > - Optimize the system/process
 > - Maximize the potential of...
@@ -223,10 +276,10 @@ Worked example (continued)
 
 Capture the outcomes and benefits in our SMART Objectives:
 
-1. To increase wheat and barley crop yields by 10% ((as a result of better fertilizer and irrigation management)) after the first year of deployment on farms in Germany
+1. To increase wheat and barley crop yields by 10% (as a result of better fertilizer and irrigation management) after the first year of deployment on farms in Germany
 2. To decrease trampled crop damage due to tractors to nil as a result of using the drone over the first growing season where the drone is deployed
-3. To decrease fertilizer and irrigation costs by 30% as a result of the drone data-driven recommendations over the first growing season where the drone is deployed
-4. To decrease time spent monitoring crop health from 5h to 1h per week as a result of using the drone over the growing season
+<!-- 3. To decrease fertilizer and irrigation costs by 30% as a result of the drone data-driven recommendations over the first growing season where the drone is deployed -->
+<!-- 4. To decrease time spent monitoring crop health from 5h to 1h per week as a result of using the drone over the growing season -->
 
 Notes:
 
@@ -242,7 +295,6 @@ Exercise:
 
 Notes:
 
-- If you are unwilling to discuss openly on the call or chat, I suggest you create a new shared Google Doc with you team
 - Ideally, I'd like to hear if anyone could share there output, outcome, benefits with me on the fly and formulate a SMART objective
 
 --
@@ -251,11 +303,16 @@ Notes:
 ### The Iron Triangle
 
 <!-- change size of image -->
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Project-triangle-en.svg/1200px-Project-triangle-en.svg.png" width="50%">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Project-triangle-en.svg/1200px-Project-triangle-en.svg.png" width="40%">
 
 - The triangle is rigid
 - Quality is constrained by cost, time and scope
 - The trick is figuring out where the stakeholders priorities lie
+
+Notes:
+
+- Not sure whether to begin or end talking about the Iron Triangle
+- It sort of encompasses all project management in an oversimplified way
 
 --
 
@@ -292,24 +349,26 @@ Notes:
 
 ---
 
+<!-- .slide: data-background="./assets/imgs/DALL·E 2023-06-21 15.18.00 - person writing and pondering in deep thought as a comic strip art.png" -->
 ## Interim
 
-Write up your project charter.
+Write up your project charter!
 
-This will involve you thinking about the most
+--
 
-- important constraints (scope, time, cost)
-- identify stakeholders
-- identify benefits
-- objectives
-- risks
-- scope
+Recommendations:
 
-[NHS England project charter template](https://www.england.nhs.uk/wp-content/uploads/2022/02/qsir-define-your-project-charter.pdf)
+- Thinking about important constraints (scope, time, cost) - **what is out-of-scope**?
+- Identifying stakeholders
+- Identifying benefits (of the outcomes)
+- Formulating SMART objectives
+- Analysing possible risks
 
-Here is a spreadsheet template
+Refer back to the NHS England project charter template, it has extra guidance.
 
-<!-- TODO: Make Sheets version for teams to generate-->
+--
+
+[Project charter template](https://docs.google.com/spreadsheets/d/1uYoI4vitq29K4x7hFYJLqLlUUoPmdcdpOSMFnI1dzgA/edit?usp=sharing)
 
 ---
 
@@ -325,7 +384,21 @@ Notes:
 
 --
 
-### A brief history of Lean
+### Lean
+
+> lean (`/li:n/`), *adjective*
+>
+> having no superfluous fat
+>
+> e.g. "Ruth had a lean, muscular body"
+>
+> - Slim, slender, healthy
+> - (Of meat) not fatty
+> - Not in excess
+
+--
+
+#### A brief history of Lean
 
 <!-- html to put the images side by side -->
 <div style="display: flex; flex-direction: row; justify-content: space-around; align-items: center;">
@@ -354,19 +427,7 @@ With the Toyota AA
 
 --
 
-> lean (`/li:n/`), *adjective*
->
-> having no superfluous fat
->
-> e.g. "Ruth had a lean, muscular body"
->
-> - Slim, slender, healthy
-> - (Of meat) not fatty
-> - Not in excess
-
---
-
-### Waste
+#### Waste
 
 <img src="https://kanbanize.com/wp-content/uploads/website-images/kanban-resources/muda-mura-muri.png" width="75%">
 
@@ -381,7 +442,7 @@ Notes:
 
 --
 
-### Eliminating waste
+#### Eliminating waste
 
 According to Toyota
 
@@ -396,13 +457,13 @@ According to Toyota
 
 --
 
-### Lean house
+#### Lean house
 
 ![Diagram of the Lean house.](./assets/imgs/Screenshot%20from%202023-06-20%2008-08-29.png)
 
 --
 
-### Just-in-case (push) vs just-in-time (pull)
+#### Just-in-case (push) vs just-in-time (pull)
 
 Just-in-case (push): make all we can just in case
 
@@ -420,7 +481,7 @@ Just-in-time (pull): make only what is needed when it is needed
 
 --
 
-### Jidoka (intelligent automation)
+#### Jidoka (intelligent automation)
 
 Ability to self-monitor and self-correct
 
@@ -428,7 +489,7 @@ Ability to self-monitor and self-correct
 
 --
 
-### 7 Lean principles of Lean manufacturing
+#### 7 Lean principles of Lean manufacturing
 
 1. Eliminate waste
 2. Amplify learning
@@ -445,7 +506,7 @@ Notes:
 
 --
 
-### Lean manufacturing in action: Kanban
+#### Lean manufacturing in action: Kanban
 
 ![Picture of a fast food restaurant order regulator.](https://foodtank.com/wp-content/uploads/2015/08/fastfood.jpg)
 
@@ -462,7 +523,7 @@ Notes:
 
 --
 
-### Minimum viable product (MVP)
+#### Minimum viable product (MVP)
 
 ![Breakdown of the meaning of MVP.](./assets/imgs/Screenshot%20from%202023-06-20%2009-34-32.png)
 
@@ -484,3 +545,5 @@ Lean development
 --
 
 ### Waterfall
+
+### Agile
