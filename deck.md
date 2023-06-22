@@ -398,6 +398,8 @@ Write up your project charter!
 Notes:
 
 - If early, I invite you to start working in your project charter and stakeholder power-interest grids...
+- In the next session, we planned on covering Lean and Agile - have any of you encountered these terms before?
+- Is there anything you would like to cover in the next session that you think would be particularly useful?
 
 --
 
