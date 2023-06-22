@@ -326,8 +326,8 @@ Notes:
 
 - From this text, can you identify the output, outcome and benefit?
   - Output/deliverable - data platform service (you do not provide the computers, manufacturer the sensors, you simply provide the service)
-  - Outcome - farmers can make data-driven decisions, optimize resource allocation, and proactively mitigate risks
-  - Benefit - farmers can increase crop yields, decrease costs, etc.
+  - Outcome - farmers can make data-driven decisions (have access to field data)
+  - Benefit - farmers can increase crop yields, decrease costs, optimize resource allocation, and proactively mitigate risks
 - Would you be able to formulate a SMART objective for this project?
   - To decrease fertilizer and irrigation costs by 30% as a result of the data-driven recommendations over the first growing season when the platform is deployed
 - Would you be able to list the output (what?), outcome (so what) and benefits (so why) of your project?
