@@ -11,10 +11,11 @@ Notes:
   - Worked at Google for a year
   - Now going to do my PhD at the University of Cambridge
   - DISCLOSURE: I don't claim to be an expert, but I do like thinking about effective PM, especially in the context of startups in agri/food space
+  - This is not a school class - ask question, interrupt, disagree with me... Have an active conversation!
 - Anecdotally, this is one of my favourite picture - Earthrise (taken from lunar orbit by astronaut William Anders on December 24, 1968, during the Apollo 8 mission)
 - You may ask what does this have to do with project management? But what enabled this is effective project management
 - Fundamentally PM remains the same and is applicable to all projects, whether it is a space mission or a startup project
-- ICEBREAKER: Roundtable quick intros (the team/project you are working on) and a fun fact about yourselves
+- ICEBREAKER: Roundtable quick intros (the team/project you are working on) - in three sentences or fewer what is the problem you are trying to solve?
 
 ---
 
@@ -75,7 +76,7 @@ Notes:
 
 - The business canvas is very focused on stakeholders and making money sustainably
 - Here we take a project perspective, which is more focused on the project team and delivering value to the stakeholders
-- The focus is on identifying and delivering value!
+- The focus is on identifying and delivering value + ensuring it is delivered!
 
 --
 
@@ -109,7 +110,7 @@ Notes:
 - The project charter allows you to have one document that you can refer back to when you are making decisions about the project
 - It allows you to quickly have an overview of the project and remind yourself of the project's objectives
 - It can be shared with potential funders, partners to give them a quick and clear understanding of what it is you are doing
-- It should be a living document (evolving as the project evolves)
+- It should be a living document (evolving as the project evolves) - value in it being accurate and up-to-date
 
 --
 
@@ -129,6 +130,9 @@ Notes:
 - Written before the project initiation document (PID)
 - It can be as short as one or two pages and comprises the key elements of the project
 - Explains the reasons for the project, the expectations and limitations which apply
+- The business case is where your project charter will differ from a project charter in a large organization...
+  - In large organizations, it is useful to justify how a project contributes to the business because that relationship is not always clear
+  - With startups, the project is the business, there is less of need to formalize that relationship because it is obvious
 
 --
 
@@ -188,8 +192,8 @@ Notes:
 
 Rule of thumb:
 
-- KS - Involve, engage, consultant (as they pose a risk)
-- MC - Involve in decision, communicate regularly
+- KeepS - Engage, consultant (as they pose a risk)
+- KeyS - Involve in decision, communicate regularly
 - KI - Make use of interest
 - ME - Inform, low priority
 
@@ -199,19 +203,24 @@ Notes:
 - I'm going to be honest, I don't think it is massively useful
 - But it does provide a formalized way of ensuring who are the key stakeholders and is a quick and easy way to communicate this to your team
 - Helps with allocation of resources
+- How much time are you going to spend communicating with each class of stakeholder?
 
 --
 
-Exercise: Where do you the following stakeholders lie on the power-interest grid?
+Exercise: Where do the following stakeholders lie on the power-interest grid?
+
+> KeepS, KeyS, KI, ME
 
 1. Senior board member in a large company
-2. Customer/end-user
-3. A field/subject-expert
+2. Founding team
+3. Customer/end-user
+4. A field/subject-expert
 
 Notes:
 
 - Prompting question: for the teams that have government institutions as stakeholders, where do you think they lie on the grid?
 - Would anyone like to share their answers?
+- Of the more experienced teams (Food banks for Bolivia), would you be willing to share what are the types of stakeholders you found most challenging to manage?
 
 --
 
@@ -220,6 +229,11 @@ Notes:
 - The project charter lists the project's deliverables/scope (i.e. what we are going to make/do?)
 - It also lists the project's objectives/goals (desired outcomes or benefit) (i.e. why are we doing this?)
 - Each stakeholder may have different objectives!
+
+Notes:
+
+- Make sure to focus on the high power stakeholders as a priority in your objectives
+- objective is the action taken to achieve the benefit (which is a desired outcome)
 
 --
 
@@ -230,6 +244,14 @@ Notes:
 - Benefit - the value that the outcome will bring (the '**why**')
 - Objective, which is the projects goals, is the desired/intentional outcomes and/or benefits
 
+Notes:
+
+- If you are a car manufacture, and you are making a car, the output is the car
+- If you are making a service it is the service (car manufactures and public transport companies both help people move from A to B but one provides a service and the other provides a product)
+- With car manufactures and public transport companies, the outcome is the same, which is that people can move from A to B
+- The benefits is the value that the outcome brings, which is that people can go to work, go to shop, travel to see friends and family, etc.
+- In turn commuters can earn money, buy food, etc.
+
 --
 
 SMART framework
@@ -239,6 +261,11 @@ SMART framework
 
 E.g.
 > To [improve/increase/enhance] [something] by [some amount] by [some date].
+
+Notes:
+
+It is important to be achievable and relevant and this is why it is useful to have the objectives in the project charter, so that you can refer back to them and make sure that you are on track
+
 
 --
 
@@ -278,7 +305,7 @@ Capture the outcomes and benefits in our SMART Objectives:
 
 1. To increase wheat and barley crop yields by 10% (as a result of better fertilizer and irrigation management) after the first year of deployment on farms in Germany
 2. To decrease trampled crop damage due to tractors to nil as a result of using the drone over the first growing season where the drone is deployed
-<!-- 3. To decrease fertilizer and irrigation costs by 30% as a result of the drone data-driven recommendations over the first growing season where the drone is deployed -->
+<!-- 3.  -->
 <!-- 4. To decrease time spent monitoring crop health from 5h to 1h per week as a result of using the drone over the growing season -->
 
 Notes:
@@ -288,14 +315,22 @@ Notes:
 
 --
 
-Exercise:
+Exercise: Can you identify the output, outcome and benefit in the following text?
 
-1. Would you be able to list the output (what?), outcome (so what) and benefits (so why) of your project?
-2. Would you be able to capture the outcomes and benefits (hence objectives of the project) in a SMART way?
+--
+
+A system that integrates smart technologies to optimize farming practices and improve food production. Empowers farmers with real-time insights, precision agriculture tools, and sustainable farming techniques which will enhance productivity, resource efficiency, and sustainability. Through the implementation of advanced sensors, IoT devices, and data analytics, the platform aims to provide farmers with accurate information on soil health, crop growth, and weather patterns. Armed with these insights, farmers can make data-driven decisions, optimize resource allocation, and proactively mitigate risks.
 
 Notes:
 
-- Ideally, I'd like to hear if anyone could share there output, outcome, benefits with me on the fly and formulate a SMART objective
+- From this text, can you identify the output, outcome and benefit?
+  - Output/deliverable - data platform service (you do not provide the computers, manufacturer the sensors, you simply provide the service)
+  - Outcome - farmers can make data-driven decisions, optimize resource allocation, and proactively mitigate risks
+  - Benefit - farmers can increase crop yields, decrease costs, etc.
+- Would you be able to formulate a SMART objective for this project?
+  - To decrease fertilizer and irrigation costs by 30% as a result of the data-driven recommendations over the first growing season when the platform is deployed
+- Would you be able to list the output (what?), outcome (so what) and benefits (so why) of your project?
+- Would you be able to capture the outcomes and benefits (hence objectives of the project) in a SMART way?
 
 --
 
@@ -323,7 +358,7 @@ Notes:
 
 - You start very ambitiously, and midway through you run out of steam and have to cut corners
 - While the iron triangle is sort sudo-science (it's not a law), it does make you reason about the trade-offs you're making when you're working on your project
-- It's OK to cut corners, just make sure you're not cutting your head off
+- It's OK to cut corners, just make sure you're not cutting your head off...
 
 --
 
@@ -333,6 +368,9 @@ Notes:
 
 - You can only have two
 - For example you can focus on reducing cost and time, but you'll have to cut scope
+- The skill of effective project management is to navigate this balance
+- Make the correct trade-offs at the right time
+- And be willing to compromise when necessary - this is why objectives are so important (they help you to make decisions)
 
 --
 
@@ -345,7 +383,10 @@ Prompting questions 🤔:
 Notes:
 
 - If you are working in medical technology, scope takes precedence over time and cost
-- However as a startup, time is often the limiting factor
+- However as a startup, time is often a limiting factor
+  - Lots of ideas for scope but not enough time or resources to implement them
+  - So the challenge is about prioritizing what is in and out of scope
+  - startups have the luxury of being able to pivot, so they can change scope/objectives (nothing is set in stone!)
 
 ---
 
@@ -353,6 +394,10 @@ Notes:
 ## Interim
 
 Write up your project charter!
+
+Notes:
+
+- If early, I invite you to start working in your project charter and stakeholder power-interest grids...
 
 --
 
@@ -415,13 +460,15 @@ Notes:
 
 With the Ford T
 
-- They started with the perceived 'perfect' product
+- Started with the perceived 'perfect' product
 - Strived to add value to the customer by standardizing the production and removing cost from the manufacturing process
 - Large batches and economies of scale
 
+--
+
 With the Toyota AA
 
-- 'seek perfection' and maximize value to the customer
+- Seek perfection and maximize value to the customer
 - Remove waste from the manufacturing process (e.g. overproduction, waiting, unnecessary transport, over-processing, excess inventory, unnecessary motion, defects)
 - Produce in small batches for a more efficient pipeline (flow)
 
@@ -429,7 +476,7 @@ With the Toyota AA
 
 #### Waste
 
-<img src="https://kanbanize.com/wp-content/uploads/website-images/kanban-resources/muda-mura-muri.png" width="75%">
+<img src="https://kanbanize.com/wp-content/uploads/website-images/kanban-resources/muda-mura-muri.png" width="70%">
 
 Waste = anything that does not add value to the customer, but we can generalize to anything that does not add value to the project (does not contribute towards the SMART objectives)
 
@@ -465,12 +512,16 @@ According to Toyota
 
 #### Just-in-case (push) vs just-in-time (pull)
 
+--
+
 Just-in-case (push): make all we can just in case
 
 - Production approximation
 - Large batches
 - High inventory
 - Management by fire fighting
+
+--
 
 Just-in-time (pull): make only what is needed when it is needed
 
@@ -489,7 +540,7 @@ Ability to self-monitor and self-correct
 
 --
 
-#### 7 Lean principles of Lean manufacturing
+#### 7 principles of Lean manufacturing
 
 1. Eliminate waste
 2. Amplify learning
@@ -545,5 +596,7 @@ Lean development
 --
 
 ### Waterfall
+
+--
 
 ### Agile
