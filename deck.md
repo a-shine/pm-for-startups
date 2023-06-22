@@ -105,6 +105,7 @@ Notes:
 
 Notes:
 
+- Have any of you heard of a project charter before? Is this something you have done before?
 - This comes from large organization where you need to unlock resources to start your project, hence you must justify to the business and stakeholders that it is worth doing
 - You don't have a need to justify yourselves to a large organization or business, but it is still a useful exercise to do (justify to yourself and potential funders)
 - The project charter allows you to have one document that you can refer back to when you are making decisions about the project
