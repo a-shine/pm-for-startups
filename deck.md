@@ -372,6 +372,7 @@ Notes:
 - The skill of effective project management is to navigate this balance
 - Make the correct trade-offs at the right time
 - And be willing to compromise when necessary - this is why objectives are so important (they help you to make decisions)
+- MVPs → fewer features but meet time and cost constraints
 
 --
 
