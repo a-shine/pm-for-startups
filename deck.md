@@ -295,6 +295,7 @@ Worked example
 Notes:
 
 - Drone + software that allows it to be autonomous - output
+- Be cautious of scope creep in the output - ask yourself, is its possible to achieve the benefit with less?
 - Note that the outcome doesn't specify the benefit (it can get a bit confusing)
 
 --
