@@ -93,7 +93,7 @@ Notes:
 - You can get away with a lot less
 - Being small has its advantages (principally agility)!
   - Focus on the project rather than how the project sits within the wider business
-- When I was working on my business / project with the Accelerator, it took me a while to realise that a lot of the PM tasks were not necessary and I could get on with the work of producing the deliverables
+- When I was working on my business / project with the Accelerator, it took me a while to realize that a lot of the PM tasks were not necessary, and I could get on with the work of producing the deliverables
   - However, the PM practices are still useful and can help you to deliver value more effectively
   - It's a balance between management and doing the work
 
@@ -265,7 +265,6 @@ E.g.
 Notes:
 
 It is important to be achievable and relevant and this is why it is useful to have the objectives in the project charter, so that you can refer back to them and make sure that you are on track
-
 
 --
 
