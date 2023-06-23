@@ -433,7 +433,7 @@ Notes:
 
 --
 
-### Lean
+<!-- ### Lean
 
 > lean (`/li:n/`), *adjective*
 >
@@ -449,7 +449,6 @@ Notes:
 
 #### A brief history of Lean
 
-<!-- html to put the images side by side -->
 <div style="display: flex; flex-direction: row; justify-content: space-around; align-items: center;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/12/1925_Ford_Model_T_touring.jpg" width="40%">
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/71/1936_Toyoda_Model_AA_03.jpg" width="40%">
@@ -603,4 +602,4 @@ Lean development
 
 --
 
-### Agile
+### Agile -->
