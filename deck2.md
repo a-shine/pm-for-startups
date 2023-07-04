@@ -204,7 +204,7 @@ Notes:
 
 ### Waterfall
 
-![](assets/imgs/Screenshot%20from%202023-06-30%2013-33-15.png)
+![Naive Waterfall diagram](assets/imgs/Screenshot%20from%202023-06-30%2013-33-15.png)
 
 Notes:
 
@@ -216,7 +216,7 @@ Notes:
 
 In practice, becomes complicated...
 
-![](assets/imgs/Screenshot%20from%202023-06-30%2013-34-35.png)
+![Complex Waterfall diagram](assets/imgs/Screenshot%20from%202023-06-30%2013-34-35.png)
 
 Notes:
 
@@ -295,7 +295,7 @@ Notes:
 
 #### Agile approaches
 
-![](https://codeit.us/storage/Ix25AhQpABMfNocjnRyCHFyywe6fwwRN42IwkPaz.png)
+![Different Agile frameworks](https://codeit.us/storage/Ix25AhQpABMfNocjnRyCHFyywe6fwwRN42IwkPaz.png)
 
 Notes:
 
@@ -317,7 +317,7 @@ Notes:
 ##### User stories
 
 - **User stories** allow you to capture scope in a way that relates to your end user
-- You add a priority, estimation of size (how long it'll take person/hours), Definition of Done (DoD), 
+- You add a priority, estimation of size (how long it'll take person/hours), Definition of Done (DoD), and acceptance criteria
 
 > As a [type of user], I want to [perform some task] so that I can [achieve some goal].
 
@@ -327,6 +327,7 @@ Notes:
 - So you need to have a way of capturing what they want
 - This is where user stories come in...
 - Estimation of size is usually done by consensus of the team (e.g. 1-5 discussion)
+- The Definition of Done sets the overall standard of completion for all user stories in a project or sprint, while Acceptance Criteria specify the specific conditions that must be met for each individual user story to be considered successfully implemented
 
 --
 
@@ -357,7 +358,7 @@ Notes:
 
 --
 
-![](https://scrumorg-website-prod.s3.amazonaws.com/drupal/inline-images/2023-02/screenshot_2023-02-14_at_8.36.08_am.png)
+![Stages of Scrum](https://scrumorg-website-prod.s3.amazonaws.com/drupal/inline-images/2023-02/screenshot_2023-02-14_at_8.36.08_am.png)
 
 Notes:
 
@@ -379,6 +380,7 @@ Notes:
 
 - Suggest using a Kanban board
 - Let's make this a little more concrete...
+- [Inspired by Pura team's persona](https://docs.google.com/presentation/d/1_zO5rCeqFXWZabfViOyaNd2_u8ImNmaj_d6B662yRco/edit#slide=id.g242c09ee597_0_115)
 
 --
 

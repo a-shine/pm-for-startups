@@ -10,3 +10,4 @@ agri
 JiT
 Heijunka
 Kaizen
+Pura
