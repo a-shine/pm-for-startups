@@ -418,17 +418,3 @@ Refer back to the NHS England project charter template, it has extra guidance.
 --
 
 [Project charter template](https://docs.google.com/spreadsheets/d/1uYoI4vitq29K4x7hFYJLqLlUUoPmdcdpOSMFnI1dzgA/edit?usp=sharing)
-
----
-
-<!-- .slide: data-background="./assets/imgs/walking.gif" -->
-## Project execution
-
-Lean and Agile
-
-Notes:
-
-- So you have your project charters, your objectives, your stakeholders, your risks, your scope
-- You have a plan, but how do you execute it?
-
---

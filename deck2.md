@@ -1,3 +1,19 @@
+<!-- ICEBREAKER: something going well, something going less well... -->
+
+<!-- .slide: data-background="./assets/imgs/walking.gif" -->
+## Project execution
+
+Lean and Agile
+
+Notes:
+
+- So you have your project charters, your objectives, your stakeholders, your risks, your scope
+- How do you execute it?
+- How do you ensure you deliver what you intended to deliver?
+- How do you adapt if things don't go to plan?
+
+--
+
 ### Lean
 
 > lean (`/li:n/`), *adjective*
@@ -21,8 +37,8 @@
 
 Notes:
 
- -Model T produced by Ford from 1908 to 1927 and is generally regarded as the first affordable and mass-produced car
--The Toyota AA was the first car Toyota produced in 1936
+- Model T produced by Ford from 1908 to 1927 and is generally regarded as the first affordable and mass-produced car
+- The Toyota AA was the first car Toyota produced in 1936
 
 --
 
@@ -36,9 +52,9 @@ With the Ford T
 
 With the Toyota AA
 
-- Seek perfection and maximize value to the customer
+- Seek perfection and **maximize value** to the customer
 - Remove waste from the manufacturing process (e.g. overproduction, waiting, unnecessary transport, over-processing, excess inventory, unnecessary motion, defects)
-- Produce in small batches for a more efficient pipeline (flow)
+- Produce in small batches for a more efficient pipeline (**flow**)
 
 --
 
@@ -46,7 +62,7 @@ With the Toyota AA
 
 <img src="https://kanbanize.com/wp-content/uploads/website-images/kanban-resources/muda-mura-muri.png" width="70%">
 
-Waste = anything that does not add value to the customer, but we can generalize to anything that does not add value to the project (does not contribute towards the SMART objectives)
+Waste = anything that does not add value to the customer/project (does not contribute towards the SMART objectives)
 
 Notes:
 
@@ -57,9 +73,7 @@ Notes:
 
 --
 
-#### Eliminating waste
-
-According to Toyota
+#### Toyota Eliminating waste
 
 1. Transport in excess of what is required
 2. Inventory in excess of what is required
@@ -165,6 +179,155 @@ Lean development
 
 ### Waterfall
 
+![](assets/imgs/Screenshot%20from%202023-06-30%2013-33-15.png)
+
+Notes:
+
+- Naive waterfall is a linear process
+- You go from one stage to the next, and it doesn't account for feedback or iteration (it assumes you got it right the first time)
+- Doesn't take into consideration the view of your end user (the person to whom you are attempting to deliver value)
+
+--
+
+In practice, becomes complicated...
+
+![](assets/imgs/Screenshot%20from%202023-06-30%2013-34-35.png)
+
+Notes:
+
+- What ends up happening the process becomes significantly more complicated to avoid ending up with a product that is not what the end user wants
+- Nobody ever thought naive waterfall was a good idea (even its creator, Winston Royce, said it was a bad idea)
+- Often used as a benchmark for other processes
+
 --
 
 ### Agile
+
+> agile (`/ˈadʒʌɪl/`), *adjective*
+>
+> able to move quickly and easily
+>
+> e.g. "Ruth was as agile as a cat"
+>
+> - nimble, supple
+> - acrobatic dexterous, graceful
+
+--
+
+#### Agile approach
+
+```bash
+Stakeholder -> Product owner -> Development team -> User
+                      ^                               |
+                      |                               |
+                      ---------------------------------
+```
+
+Notes:
+
+- The approach is built around the idea of a product owner who is the voice of the user
+- Iteration is built into the process
+
+--
+
+<!-- md 2 col table -->
+
+#### Paradigm shift
+
+| Tradition/naive | Agile |
+| --------- | ----- |
+| Plan driven    | Value driven |
+| fixed scope, estimate cost/time | fixed cost/time, estimate scope |
+| sequential | iterative |
+| top-down | bottom-up |
+
+Decreases the cost, time and quality risk!
+
+--
+
+#### Agile manifesto
+
+> - **Individuals and interactions** over processes and tools
+> - **Working [solutions]** over comprehensive documentation
+> - **Customer collaboration** over contract negotiation
+> - **Responding to change** over following a plan
+>
+> That is, while there is value in the items on
+> the right, we value the items on the left more.
+
+Notes:
+
+- This came about in software development, but now these principles are applied to all sorts of projects (fashion, content creation, construction, etc.)
+
+--
+
+#### Agile approaches
+
+![](https://codeit.us/storage/Ix25AhQpABMfNocjnRyCHFyywe6fwwRN42IwkPaz.png)
+
+Notes:
+
+- Agile is a philosophy / state of mind
+- Over the years' company have developed frameworks to help them formally be agile
+
+--
+
+#### Scrum basics
+
+Product backlog (built and maintained by the product owner)
+filled with user stories
+epics (group of related user stories)
+allows you to capture scope in a way that relates to your end user
+
+to a user story you add a priotity, estimation of size (how long it'll take person/hours), definition of done
+
+product ownwer - input from end-users, stakeholders, team... (maintains and builds the backlog)
+
+--
+
+![](https://scrumorg-website-prod.s3.amazonaws.com/drupal/inline-images/2023-02/screenshot_2023-02-14_at_8.36.08_am.png)
+
+Notes:
+
+- User stories are gathered to form backlog
+- team democratically select how much they can commit to by pulling from the backlog into the srint backlog (they works together to estimate user story size while the product pwner assignes priority and definiton of done)
+- sprint comences (usualy over 2 weeks)
+  - daily standup by scrum master to assign work and measure progress
+- at end of sprint deliver new iteration, review, gather feedback and retrospective
+
+--
+
+What dows this look like?
+
+You can do it any way you want? Pieces of paper, sticky notes, whiteboard...
+Suggest using a Kanban board
+
+<!-- TODO: show demo kanban board -->
+
+--
+
+### Reconciling Agile and Lean
+
+- Mutually beneficial
+- lean is about maximising value to the customer (only delivering what is needed and working) think bike not car wheel
+- agile is about adapting, listening to end users (customers) and being willing to adapt the output
+
+you can do both!
+
+---
+
+## Key takeaways
+
+- make sure what you are doing is useful by talking to people
+
+---
+
+Some tools to help you along the way...
+
+- Figma
+- diagrams.net
+- Trello
+- Google domains (for domain names)
+- Weebly (for websites) (alternatively for those that want to code, GitHub pages)
+
+Make sure to version control your work!
