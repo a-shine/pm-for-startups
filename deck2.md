@@ -1,4 +1,4 @@
-<!-- ICEBREAKER: something going well, something going less well... -->
+<!-- ICEBREAKER: Something going well, something going less well... -->
 
 <!-- .slide: data-background="./assets/imgs/walking.gif" -->
 ## Project execution
