@@ -7,3 +7,6 @@ Jidoka
 KeepS
 KeyS
 agri
+JiT
+Heijunka
+Kaizen

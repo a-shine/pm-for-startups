@@ -4,5 +4,16 @@
         "MD033": {
           "allowed_elements": ["img", "div"]
         }
-      }
+      },
+      "cSpell.words": [
+        "ˈadʒʌɪl",
+        "Heijunka",
+        "imgs",
+        "Jidoka",
+        "Kaizen",
+        "Kanban",
+        "Muda",
+        "Muri",
+        "Weebly"
+      ]
 }

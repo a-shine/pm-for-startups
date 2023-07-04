@@ -53,7 +53,7 @@ With the Ford T
 With the Toyota AA
 
 - Seek perfection and **maximize value** to the customer
-- Remove waste from the manufacturing process (e.g. overproduction, waiting, unnecessary transport, over-processing, excess inventory, unnecessary motion, defects)
+- **Remove waste** from the manufacturing process (e.g. overproduction, waiting, unnecessary transport, over-processing, excess inventory, defects)
 - Produce in small batches for a more efficient pipeline (**flow**)
 
 --
@@ -67,28 +67,23 @@ Waste = anything that does not add value to the customer/project (does not contr
 Notes:
 
 - The core premise behind Lean is to eliminate waste
-- Muri (overburden) - machines and people can not work beyond their capacity
-- Muda (wastefulness) - activities that do not add value
-- Mura (unevenness) - e.g. having to crunch just before a deadline to meet the deadline
-
---
-
-#### Toyota Eliminating waste
-
-1. Transport in excess of what is required
-2. Inventory in excess of what is required
-3. Motion between processes
-4. Waiting got processes to finish or people/machines that are unavailable
-5. Over processing beyond what is required
-6. Overproduction ahead of demand
-7. Defects and parsing poor quality down the supply chain
-8. Skills not seeking expertise and creativity
+- Toyota identifies three types of waste
+  - Muri (overburden) - machines and people can not work beyond their capacity
+  - Muda (wastefulness) - activities that do not add value
+  - Mura (unevenness) - e.g. having to crunch just before a deadline to meet the deadline (leads to a loss in quality)
 
 --
 
 #### Lean house
 
 ![Diagram of the Lean house.](./assets/imgs/Screenshot%20from%202023-06-20%2008-08-29.png)
+
+Notes:
+
+- What is the Lean house? A visualization of the principles of Lean
+  - As the base you have Heijunka and Kaizen
+  - Then you have the two pillars of JiT and Jidoka
+  - Supporting the goal of quality, low cost and shortest lead time
 
 --
 
@@ -120,6 +115,15 @@ Ability to self-monitor and self-correct
 
 ![Cartoon showing the evolution of Jidoka. Going from a simple manufacturing process to a sophisticated automated process.](https://www.lean.org/wp-content/uploads/2020/07/jidoka.gif)
 
+Notes:
+
+- Anecdote of the technician in the packing factory
+- A famous packaging company had this issue in their packing process where due to a fault in the line, some boxes were not filled. They needed a way to prevent those boxes from making their way to the end of the line to be loaded into trucks.
+- They spent millions hiring an engineering consultancy to look into the problem and how the fix could be automated using extra sensors
+- In the meantime they asked someone on the factory floor to sit by the line and manually check and remove empty boxes
+- While the engineering consultancy were testing prototypes and running late on the project, the person on the factory floor, out of sheer boredom, figured out: if he just put the fan he was using to cool himself facing the line, the lighter empty boxes would simply be blown off while the heavier filled boxes stayed.
+- Moral of the story is to allow for inelegant intervention from everyone! Trust and respect the workforce!
+
 --
 
 #### 7 principles of Lean manufacturing
@@ -134,7 +138,9 @@ Ability to self-monitor and self-correct
 
 Notes:
 
-- So how are the Lean principles relevant to us?
+- Defer commitment (JiT)
+- The concept of learning and focus on upskilling the team is key
+- How are the Lean principles relevant to us?
 - Do you see anything here that would be exclusive to manufacturing?
 
 --
@@ -145,14 +151,23 @@ Notes:
 
 Notes:
 
-- As orders come in, burgers removed from regulator
-- Replenished on-demand (JIT) by the kitchen
-- Not made to a forecast and pushed to a customer (who may not want a burger) as that would be wasteful
+- A place that you may all know that embraces Lean manufacturing is fast food restaurants
+- While I don't advocate for them, they do a good job of scaling and making food to order while minimizing waste
 
 --
 
 ![Diagram of JIT for fast food restaurants.](./assets/imgs/Screenshot%20from%202023-06-20%2009-19-01.png)
 ![Diagram of JIT for software development products.](assets/imgs/Screenshot%20from%202023-06-20%2009-19-09.png)
+
+Notes:
+
+- On the left, diagram of JiT in a burger fast food
+  - As orders come in, burgers removed from regulator
+  - Replenished on-demand (JIT) by the kitchen
+  - Food is **pulled** from the burger regulator when a customer asks for it
+  - That notifies the kitchen that they need to start work once more
+- Not made to a forecast and pushed to a customer (who may not want a burger) as that would be wasteful
+- This same technique is used in software development, where a feature is requested by a customer/user and that triggers the programmers to start the work (responding to the customers needs not anticipating them)
 
 --
 
@@ -160,14 +175,20 @@ Notes:
 
 ![Breakdown of the meaning of MVP.](./assets/imgs/Screenshot%20from%202023-06-20%2009-34-32.png)
 
+Notes:
+
+- Producing an MVP is a good way to embrace the Lean philosophy
+- Let's break it down...
+
 --
 
 ![Cartoon strip showing benefit of a skateboard vs. a set of car wheels.](assets/imgs/Screenshot%20from%202023-06-20%2009-34-40.png)
 
 Notes:
 
+- This picture does such a good job of showing the effectiveness of building an MPV
 - The idea is that it is more valuable to provide a full useful thing rather than parts of a more complex thing
-- e.g. you want to provide mobility but don't have the capacity to build a car, so you build a skateboard
+- e.g. you want to provide mobility but don't have the capacity to build a car, build a skateboard. Over time, you will be able to deliver a car!
 
 --
 
@@ -196,8 +217,8 @@ In practice, becomes complicated...
 Notes:
 
 - What ends up happening the process becomes significantly more complicated to avoid ending up with a product that is not what the end user wants
-- Nobody ever thought naive waterfall was a good idea (even its creator, Winston Royce, said it was a bad idea)
-- Often used as a benchmark for other processes
+- Nobody ever thought naive waterfall was a good idea (even its creator, Winston Royce, said it was bad)
+- Useful for illustrating the value of Agile
 
 --
 
@@ -210,7 +231,7 @@ Notes:
 > e.g. "Ruth was as agile as a cat"
 >
 > - nimble, supple
-> - acrobatic dexterous, graceful
+> - acrobatic, dexterous, graceful
 
 --
 
@@ -227,14 +248,15 @@ Notes:
 
 - The approach is built around the idea of a product owner who is the voice of the user
 - Iteration is built into the process
+- So the stakeholder and user feed information regularly to the product owner who then shares the direction with the dev team
+- Fragments or MVPs are delivered regularly, each iterating on one another
+- Mitigates one of the biggest risks in delivering a project/product, making something that nobody wants!
 
 --
 
-<!-- md 2 col table -->
-
 #### Paradigm shift
 
-| Tradition/naive | Agile |
+| Naive Waterfall | Agile |
 | --------- | ----- |
 | Plan driven    | Value driven |
 | fixed scope, estimate cost/time | fixed cost/time, estimate scope |
@@ -242,6 +264,11 @@ Notes:
 | top-down | bottom-up |
 
 Decreases the cost, time and quality risk!
+
+Notes:
+
+- Fixed scope, assumes you got the perfect product from the start (Ford) - it is possible to be successful that way but higher risk
+- Bottom-up from the end user
 
 --
 
@@ -251,13 +278,14 @@ Decreases the cost, time and quality risk!
 > - **Working [solutions]** over comprehensive documentation
 > - **Customer collaboration** over contract negotiation
 > - **Responding to change** over following a plan
->
-> That is, while there is value in the items on
-> the right, we value the items on the left more.
 
 Notes:
 
 - This came about in software development, but now these principles are applied to all sorts of projects (fashion, content creation, construction, etc.)
+- Like in Lean we value people, instead of trying to remove them from the process with necessary automation (allow everyone to contribute and be creative, listen to everyone's suggestions)
+- Don't focus too much on writing documentation and reports
+- Collaborate with your end users
+- Be willing to change your original plan
 
 --
 
@@ -268,20 +296,60 @@ Notes:
 Notes:
 
 - Agile is a philosophy / state of mind
-- Over the years' company have developed frameworks to help them formally be agile
+- Over the years' company have developed frameworks to help them formally be Agile
+- Can be a little confusing
 
 --
 
 #### Scrum basics
 
-Product backlog (built and maintained by the product owner)
-filled with user stories
-epics (group of related user stories)
-allows you to capture scope in a way that relates to your end user
+Notes:
 
-to a user story you add a priotity, estimation of size (how long it'll take person/hours), definition of done
+- The most popular/mainstream framework for being Agile is Scrum
+- It is a little confusing to begin with, cause there is quite a lot of funny terminology, but it is actually quite simple
 
-product ownwer - input from end-users, stakeholders, team... (maintains and builds the backlog)
+--
+
+##### User stories
+
+- **User stories** allow you to capture scope in a way that relates to your end user
+- You add a priority, estimation of size (how long it'll take person/hours), Definition of Done (DoD), 
+
+> As a [type of user], I want to [perform some task] so that I can [achieve some goal].
+
+Notes:
+
+- The main idea with being Agile is that you are able to respond to change coming from your end user
+- So you need to have a way of capturing what they want
+- This is where user stories come in...
+- Estimation of size is usually done by consensus of the team (e.g. 1-5 discussion)
+
+--
+
+##### Backlog
+
+- **Product backlog** is a list of **user stories**
+- Product owner takes inputs from end-users, stakeholders and the team to build and maintain the backlog
+- Sprint backlog is a subset of the product backlog that the team commits to delivering in a **sprint**
+
+Notes:
+
+- The product backlog is a list of all the user stories that you want to deliver (these have been validated by the stakeholders and end users)
+
+--
+
+##### Sprint
+
+- **Sprint** is a time-boxed period of development (usually 2 weeks)
+- Idea is to deliver a working product/MVP at the end of each sprint and gather feedback from the end user
+- Use this feedback to inform the next sprint
+
+--
+
+##### Daily stand-up
+
+- **Daily stand-up** is a short meeting (~15 minutes) where the team discusses what they did yesterday, what they are doing today and any blockers
+- Promotes transparency and cross-collaboration
 
 --
 
@@ -290,44 +358,44 @@ product ownwer - input from end-users, stakeholders, team... (maintains and buil
 Notes:
 
 - User stories are gathered to form backlog
-- team democratically select how much they can commit to by pulling from the backlog into the srint backlog (they works together to estimate user story size while the product pwner assignes priority and definiton of done)
-- sprint comences (usualy over 2 weeks)
-  - daily standup by scrum master to assign work and measure progress
-- at end of sprint deliver new iteration, review, gather feedback and retrospective
+- Team democratically selects how much they can commit to by pulling from the backlog into the sprint backlog
+- Sprint commences
+- Daily stand-up to assign work and measure progress
+- At end of sprint deliver new iteration, review, gather feedback (to feed the product backlog) and retrospective (to improve the process)
 
 --
 
-What dows this look like?
+What does this look like?
 
 You can do it any way you want? Pieces of paper, sticky notes, whiteboard...
-Suggest using a Kanban board
 
-<!-- TODO: show demo kanban board -->
+[Feature & bug tracking demo](https://trello.com/invite/b/0G4E8Z4n/ATTIcbeef1d5237f01e13170865eca614339CB12D420/featurebug-tracking-demo)
+
+Notes:
+
+- Suggest using a Kanban board
+- Let's make this a little more concrete...
 
 --
 
 ### Reconciling Agile and Lean
 
 - Mutually beneficial
-- lean is about maximising value to the customer (only delivering what is needed and working) think bike not car wheel
-- agile is about adapting, listening to end users (customers) and being willing to adapt the output
-
-you can do both!
+- Lean is about maximizing value to the customer (only delivering what is needed) think bike not car wheel
+- Agile is about adapting, listening to end users (customers) and being willing to adapt the output
 
 ---
 
 ## Key takeaways
 
-- make sure what you are doing is useful by talking to people
+- Make sure what you are doing is useful by talking to people
 
 ---
 
 Some tools to help you along the way...
 
-- Figma
-- diagrams.net
-- Trello
-- Google domains (for domain names)
-- Weebly (for websites) (alternatively for those that want to code, GitHub pages)
-
-Make sure to version control your work!
+- [Figma](https://www.figma.com/) - Digital design and prototyping tool
+- [diagrams.net](https://app.diagrams.net/) - Diagramming tool
+- [Trello](https://trello.com/) - Collaborative Kanban boards
+- [Google domains](https://domains.google.com/) - Company domain names
+- [Weebly](https://www.weebly.com/) - Drag-n-drop website builder
