@@ -392,7 +392,10 @@ Notes:
 
 ## Key takeaways
 
-- Make sure what you are doing is useful by talking to people
+- Make sure what you are doing is useful **by talking to people**
+- Fail fast, fail cheap
+- Don't be afraid to change your mind
+- Better to have something that works than something that is perfect (MVP)
 
 ---
 
