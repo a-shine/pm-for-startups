@@ -196,6 +196,10 @@ Lean development
 
 ![The cycle of Lean development. Going from process mapping to set-based design to MVP delivery to rinse and repeat.](assets/imgs/Screenshot%20from%202023-06-20%2009-40-22.png)
 
+Notes:
+
+- [BREAK]
+
 --
 
 ### Waterfall
@@ -399,3 +403,7 @@ Some tools to help you along the way...
 - [Trello](https://trello.com/) - Collaborative Kanban boards
 - [Google domains](https://domains.google.com/) - Company domain names
 - [Weebly](https://www.weebly.com/) - Drag-n-drop website builder
+
+Notes:
+
+- If I have time, do a short demo of Figma...
