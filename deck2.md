@@ -10,7 +10,7 @@ Notes:
 - So you have your project charters, your objectives, your stakeholders, your risks, your scope
 - How do you execute it?
 - How do you ensure you deliver what you intended to deliver?
-- How do you adapt if things don't go to plan?
+- How do you adapt if things don't go to plan? (And they will!)
 
 --
 
@@ -26,6 +26,10 @@ Notes:
 > - (Of meat) not fatty
 > - Not in excess
 
+Notes:
+
+- What does Lean mean?
+
 --
 
 #### A brief history of Lean
@@ -39,6 +43,7 @@ Notes:
 
 - Model T produced by Ford from 1908 to 1927 and is generally regarded as the first affordable and mass-produced car
 - The Toyota AA was the first car Toyota produced in 1936
+- Lean was actually born in the manufacturing industry, at Toyota, in the 1930s
 
 --
 
@@ -48,6 +53,12 @@ With the Ford T
 - Strived to add value to the customer by standardizing the production and removing cost from the manufacturing process
 - Large batches and economies of scale
 
+Notes:
+
+- This is a high risk strategy, as you are assuming you know what the customer wants
+- It turned out well for Ford, but it could have gone the other way
+- 'Any colour as long as it's black'
+
 --
 
 With the Toyota AA
@@ -55,6 +66,12 @@ With the Toyota AA
 - Seek perfection and **maximize value** to the customer
 - **Remove waste** from the manufacturing process (e.g. overproduction, waiting, unnecessary transport, over-processing, excess inventory, defects)
 - Produce in small batches for a more efficient pipeline (**flow**)
+
+Notes:
+
+- Took a different approach, by focusing on the customer and removing waste
+- Did not assume they knew what the customer wanted, so tentatively produced in small batches, awaiting customers demand
+- They were able to do so economically by removing waste from the manufacturing process (not doing anything unnecessary)
 
 --
 
@@ -83,11 +100,15 @@ Notes:
 - What is the Lean house? A visualization of the principles of Lean
   - As the base you have Heijunka and Kaizen
   - Then you have the two pillars of JiT and Jidoka
-  - Supporting the goal of quality, low cost and shortest lead time
+  - Supporting the goal of quality, low cost and shortest lead time (time taken to complete a process)
 
 --
 
 #### Just-in-case (push) vs just-in-time (pull)
+
+Notes:
+
+- Toyota introduced a new paradigm in manufacturing: Just-in-time (JiT)
 
 --
 
@@ -98,6 +119,13 @@ Just-in-case (push): make all we can just in case
 - High inventory
 - Management by fire fighting
 
+Notes:
+
+- The traditional approach to manufacturing is to produce as much as possible, as quickly as possible, to benefit from economies of scale
+- This is Just-in-case (push)
+- You are having to make assumptions about what the customer wants, and you are having to store the inventory somewhere
+- you make lots of approximations and that always carries risk
+
 --
 
 Just-in-time (pull): make only what is needed when it is needed
@@ -106,6 +134,13 @@ Just-in-time (pull): make only what is needed when it is needed
 - Small batches
 - Low inventory
 - Management by sight
+
+Notes:
+
+- JiT does not make any assumptions about what the customer wants
+- It is triggered by the customer demand
+- This may seem like a slower process, but it is actually more efficient
+- You end up with something you know the customer wants, and you have not wasted time and resources on something they don't want
 
 --
 
@@ -139,9 +174,9 @@ Notes:
 Notes:
 
 - Defer commitment (JiT)
-- The concept of learning and focus on upskilling the team is key
+- **The concept of learning and focus on upskilling the team is key**
 - How are the Lean principles relevant to us?
-- Do you see anything here that would be exclusive to manufacturing?
+- Do you see anything here that would be exclusive to manufacturing? No!
 
 --
 
@@ -151,7 +186,7 @@ Notes:
 
 Notes:
 
-- A place that you may all know that embraces Lean manufacturing is fast food restaurants
+- A place that you may know that embraces Lean manufacturing is fast food restaurants
 - While I don't advocate for them, they do a good job of scaling and making food to order while minimizing waste
 
 --
@@ -162,12 +197,13 @@ Notes:
 Notes:
 
 - On the left, diagram of JiT in a burger fast food
-  - As orders come in, burgers removed from regulator
-  - Replenished on-demand (JIT) by the kitchen
+  - As orders come in, burgers removed from regulator (is the device that holds the burgers)
   - Food is **pulled** from the burger regulator when a customer asks for it
   - That notifies the kitchen that they need to start work once more
+  - Replenished on-demand (JIT) by the kitchen
 - Not made to a forecast and pushed to a customer (who may not want a burger) as that would be wasteful
-- This same technique is used in software development, where a feature is requested by a customer/user and that triggers the programmers to start the work (responding to the customers needs not anticipating them)
+- This same technique is used in software development, where a feature is requested by a customer/user and that **triggers** the programmers to start the work (responding to the customers needs not anticipating them)
+- More recently these techniques are used in fashion where clothes are made in small batches
 
 --
 
@@ -211,6 +247,7 @@ Notes:
 - Naive waterfall is a linear process
 - You go from one stage to the next, and it doesn't account for feedback or iteration (it assumes you got it right the first time)
 - Doesn't take into consideration the view of your end user (the person to whom you are attempting to deliver value)
+- In can be effective if you know exactly what you're doing but more often than not, it is not the case
 
 --
 
@@ -236,6 +273,10 @@ Notes:
 >
 > - nimble, supple
 > - acrobatic, dexterous, graceful
+
+Notes:
+
+- Moving, **adapting**, responding to change
 
 --
 
@@ -272,8 +313,8 @@ Decreases the cost, time and quality risk!
 Notes:
 
 - Fixed scope, assumes you got the perfect product from the start (Ford) - it is possible to be successful that way but higher risk
-- Bottom-up from the end user
-
+- Bottom-up from the end user (feedback from users)
+- If cost and time a hard constraint, then scope must be varied and this is the one of the best ways to ensure you get the most value for your money/time
 --
 
 #### Agile manifesto
@@ -285,11 +326,13 @@ Notes:
 
 Notes:
 
+- The manifesto was made by a few people sitting in a room in 2001 who were frustrated with the way status quo of software development
 - This came about in software development, but now these principles are applied to all sorts of projects (fashion, content creation, construction, etc.)
-- Like in Lean we value people, instead of trying to remove them from the process with necessary automation (allow everyone to contribute and be creative, listen to everyone's suggestions)
-- Don't focus too much on writing documentation and reports
-- Collaborate with your end users
-- Be willing to change your original plan
+- The manifesto states
+  - Like in Lean we value people, instead of trying to remove them from the process with necessary automation (allow everyone to contribute and be creative, listen to everyone's suggestions)
+  - Don't focus too much on writing documentation and reports
+  - Collaborate with your end users
+  - Be willing to change your original plan
 
 --
 
@@ -348,6 +391,11 @@ Notes:
 - **Sprint** is a time-boxed period of development (usually 2 weeks)
 - Idea is to deliver a working product/MVP at the end of each sprint and gather feedback from the end user
 - Use this feedback to inform the next sprint
+
+Notes:
+
+- Essentially, build something useful (even if it is not exactly what you want to build) in two weeks, get feedback on that, and see where to go from there
+- I think it helps with the mental strength of pursuing a project, it is much easier to commit to something for two weeks than it is to commit to something for 6 months + more satisfying to see progress
 
 --
 
