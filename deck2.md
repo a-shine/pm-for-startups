@@ -83,7 +83,7 @@ Waste = anything that does not add value to the customer/project (does not contr
 
 Notes:
 
-- The core premise behind Lean is to eliminate waste
+- The core premise behind Lean is to maximize value and to do so you need to eliminate waste
 - Toyota identifies three types of waste
   - Muri (overburden) - machines and people can not work beyond their capacity
   - Muda (wastefulness) - activities that do not add value
