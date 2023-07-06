@@ -41,9 +41,9 @@ Notes:
 
 Notes:
 
+- Lean (as a project/product development philosophy) was actually born in the manufacturing industry, at Toyota, in the 1930s
 - Model T produced by Ford from 1908 to 1927 and is generally regarded as the first affordable and mass-produced car
 - The Toyota AA was the first car Toyota produced in 1936
-- Lean was actually born in the manufacturing industry, at Toyota, in the 1930s
 
 --
 
