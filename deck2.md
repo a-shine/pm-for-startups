@@ -157,7 +157,7 @@ Notes:
 - They spent millions hiring an engineering consultancy to look into the problem and how the fix could be automated using extra sensors
 - In the meantime they asked someone on the factory floor to sit by the line and manually check and remove empty boxes
 - While the engineering consultancy were testing prototypes and running late on the project, the person on the factory floor, out of sheer boredom, figured out: if he just put the fan he was using to cool himself facing the line, the lighter empty boxes would simply be blown off while the heavier filled boxes stayed.
-- Moral of the story is to allow for inelegant intervention from everyone! Trust and respect the workforce!
+- Moral of the story is to allow for intervention from everyone! Trust and respect the workforce! (it is not because they are on the factory floor that they are not smart)
 
 --
 
@@ -247,7 +247,7 @@ Notes:
 - Naive waterfall is a linear process
 - You go from one stage to the next, and it doesn't account for feedback or iteration (it assumes you got it right the first time)
 - Doesn't take into consideration the view of your end user (the person to whom you are attempting to deliver value)
-- In can be effective if you know exactly what you're doing but more often than not, it is not the case
+- It can be effective if you know exactly what you're doing but more often than not, it is not the case
 
 --
 
@@ -315,6 +315,7 @@ Notes:
 - Fixed scope, assumes you got the perfect product from the start (Ford) - it is possible to be successful that way but higher risk
 - Bottom-up from the end user (feedback from users)
 - If cost and time a hard constraint, then scope must be varied and this is the one of the best ways to ensure you get the most value for your money/time
+
 --
 
 #### Agile manifesto
